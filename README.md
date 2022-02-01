@@ -12,3 +12,5 @@ Topics:
 * Records ([JEP 395](https://openjdk.java.net/jeps/395), JDK 16)
 * Sealed Classes and Interfaces ([JEP 409](https://openjdk.java.net/jeps/409), JDK 17)
 * Pattern Matching for `switch` ([JEP 406](https://openjdk.java.net/jeps/406), preview in JDK 17)
+
+Check out [my courses at Pluralsight](https://app.pluralsight.com/profile/author/jesper-dejong).
