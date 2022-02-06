@@ -57,6 +57,7 @@ public class SwitchExpressions {
 
         // This will print java.lang.String, but according to IntelliJ the type of 'message3' is something complicated.
         // Replacing 'var' by 'String' above also doesn't work.
-        System.out.println(message3.getClass().getName());
+        Class<?> cls = message3.getClass();
+        System.out.println(cls.getName());
     }
 }
